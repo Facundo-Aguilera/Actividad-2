@@ -1,0 +1,93 @@
+* {
+    max-width: 85%
+    margin: auto;
+    padding: auto;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    background: green;
+    width: 100%;
+    margin: auto;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+#nosotros {
+    margin-left: 60%;
+}
+
+.menu li a:hover{
+    background: red;
+}
+
+.descripcion {
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagenes-y-descripcion {
+    margin: auto;
+}
+
+.primera-foto {
+    display: inline-block;
+    margin-left: 28em;
+}
+
+.fotos {
+    display: inline-block;
+    margin-left: 3em;
+}
+
+.texto-informativo {
+    text-align: center
+}
+
+.imagenes {
+    margin-left: 3em;
+}
+
+.pie-de-pagina {
+    margin-left: 25em;
+    margin-top: 6em;
+}
+
+.pie-de-pagina p {
+    display: inline-block;
+    align-content: center;
+}
+
+.red-social{
+    padding-left: 12em;
+    margin-top: 10px;
+    display: inline-block;
+  }
+
+  .red-social a{
+    display: inline-block;
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
